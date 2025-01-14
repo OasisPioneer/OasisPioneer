@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Oasis Pioneer</h1>
 <h3 align="center">Individual C++ developer from China</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oasispioneer&label=Profile%20views&color=0e75b6&style=flat" alt="oasispioneer" /> </p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OasisPioneer)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oasispioneer" alt="oasispioneer" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/oasispioneers" target="blank"><img src="https://img.shields.io/twitter/follow/oasispioneers?logo=twitter&style=for-the-badge" alt="oasispioneers" /></a> </p>
-
-- 🔭 I’m currently working on [C PlusPlus ProMax](https://gitee.com/OasisPioneerTeam)
+- 🔭 I’m currently working on [SecureMatrix](https://github.com/OasisPioneer/SecureMatrix)
 
 - 🤝 I’m looking for help with **Funding Sponsorship**
 

@@ -2,7 +2,7 @@
 <h3 align="center">Individual C++ developer from China</h3>
 
 <div class="github-card" data-github="OasisPioneer" data-width="400" data-height="156" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/jsdelivr/widget.js"></script>
 
 - 🔭 I’m currently working on [SecureMatrix](https://github.com/OasisPioneer/SecureMatrix)
 

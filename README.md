@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oasis Pioneer</h1>
 <h3 align="center">Individual C++ developer from China</h3>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OasisPioneer)](https://github.com/anuraghazra/github-readme-stats)
-
+<div class="github-card" data-github="OasisPioneer" data-width="400" data-height="156" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 - 🔭 I’m currently working on [SecureMatrix](https://github.com/OasisPioneer/SecureMatrix)
 

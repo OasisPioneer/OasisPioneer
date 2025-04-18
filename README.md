@@ -2,15 +2,9 @@
 
 <img align="left" height="200" src="https://avatars.githubusercontent.com/u/166129150?v=4"  />
 
-###
-
 <h1 align="center">Hello, I am 龙森</h1>
 
-###
-
 <p align="center">I Like Computer Programming</p>
-
-###
 
 <div align="center">
   <a href="https://x.com/OasisPioneers" target="_blank">
@@ -24,8 +18,6 @@
   </a>
 </div>
 
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -36,12 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OasisPioneer/OasisPioneer/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OasisPioneer/OasisPioneer/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OasisPioneer/OasisPioneer/output/pacman-contribution-graph.svg">
 </picture>
-
-###

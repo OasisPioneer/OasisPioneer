@@ -12,8 +12,11 @@
 
 ### 💫 About Me  
 🧠 Independent Developer / System Architect / Explorer
-💻 Love **C++ · Boost · Qt · Open Source**  
-🌍 Currently building multiple **Cross-platform underlying project**  
+
+💻 Love **C++ · Boost · Qt · Open Source**
+
+🌍 Currently building multiple **Cross-platform underlying project**
+
 📚 Passionate about writing technical documentation and code comments, pursuing ultimate code elegance
 
 </div>

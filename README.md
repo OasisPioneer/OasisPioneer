@@ -1,62 +1,108 @@
-<br clear="both">
+<!-- ========================================= -->
+<!--         🌌 OasisPioneer - Profile          -->
+<!-- ========================================= -->
 
-<h1 align="center">Hello Comrade</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+OasisPioneer's+Universe!;C%2B%2B+%7C+System+Architecture+%7C+Network+Security;Exploring+AI+and+Cyber+Innovation..." alt="Typing SVG" />
+</p>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="75" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="75" alt="linux logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="75" alt="clion logo"  />
-</div>
-
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  <a href="https://t.me/OasisPioneer" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://x.com/OasisPioneers" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
-  </a>
+
+### 💫 About Me  
+🧠 Independent Developer / System Architect / Explorer
+💻 Love **C++ · Boost · Qt · Open Source**  
+🌍 Currently building multiple **Cross-platform underlying project**  
+📚 Passionate about writing technical documentation and code comments, pursuing ultimate code elegance
+
 </div>
 
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=OasisPioneer&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=OasisPioneer&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OasisPioneer&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+
+### ⚙️ Tech Stack  
+
+| 💻 Languages | 🧩 Frameworks | ⚡ Tools | 🧠 Databases |
+|:-------------:|:-------------:|:---------:|:--------------:|
+| ![C++](https://skillicons.dev/icons?i=cpp) ![Bash](https://skillicons.dev/icons?i=bash) | ![Qt](https://skillicons.dev/icons?i=qt) ![Boost](https://skillicons.dev/icons?i=boost) | ![Git](https://skillicons.dev/icons?i=git) ![CMake](https://skillicons.dev/icons?i=cmake) ![Linux](https://skillicons.dev/icons?i=linux) | ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) |
+
 </div>
 
-###
-
-<br clear="both">
-
-<h2 align="center">Sponsor</h2>
-
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  <a href="https://shields.io/badges" target="_blank">
-    <img src="https://img.shields.io/badge/BTC-1C9L21Y4VTbeVeTnccyhZb6ziJfdpyQswz-F7931A?logo=bitcoinsv" height="35" alt="BTC logo"  />
-  </a>
-  <a href="https://shields.io/badges" target="_blank">
-    <img src="https://img.shields.io/badge/ETH-0xe4dad77ac594bb2a1ee81efb85a7d0976f2d1ced-C9B3F5?logo=ethereum" height="35" alt="ETH logo"  />
-  </a>
-  <a href="https://shields.io/badges" target="_blank">
-    <img src="https://img.shields.io/badge/USDT&Trc20-TGMPjDRU92JYjidTu6tRuqZezqrNhWZcYS-26A17B?logo=tether" height="35" alt="USDT logo"  />
-  </a>
+
+### 🛰️ GitHub Stats
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=OasisPioneer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=OasisPioneer&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF"/>
+</td>
+</tr>
+</table>
+
 </div>
 
-###
+---
+
+<div align="center">
+
+### 🚀 Featured Projects  
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚡ Styx Telegram Bot Framework</h3>
+      <p align="center">
+        A modular Telegram bot framework for C++ developers. 
+      </p>
+      <p align="center">
+        <a href="https://github.com/OasisPioneer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OasisPioneer&repo=StyxTelegramBotFramework&theme=tokyonight&hide_border=true" /></a>
+      </p>
+    </td>
+    <!-- <td width="50%">
+      <h3 align="center">🧬 C++ Encryption Library</h3>
+        <p align="center">
+          自研跨平台 AES 加密库，支持 CBC/GCM 模式，无第三方依赖，目标类似 OpenSSL 的简化实现。  
+        </p>
+        <p align="center">
+          <a href="https://github.com/OasisPioneer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OasisPioneer&repo=StyxCrypto&theme=tokyonight&hide_border=true" /></a>
+        </p>
+    </td> -->
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧭 Activity Map  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OasisPioneer&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Connect With Me  
+
+[![GitHub](https://img.shields.io/badge/GitHub-OasisPioneer-00FFFF?style=for-the-badge&logo=github)](https://github.com/OasisPioneer)
+[![Telegram](https://img.shields.io/badge/Telegram-@OasisPioneer-00BFFF?style=for-the-badge&logo=telegram)](https://t.me/OasisPioneer)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FFFF&section=footer" />
+</p>
